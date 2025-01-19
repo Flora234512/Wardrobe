@@ -1,0 +1,47 @@
+[
+  {
+    "item_id": "001",
+    "name": "Blue Jeans",
+    "category": "pants",
+    "color": "blue",
+    "size": "34",
+    "location": "closet",
+    "img": ["binary data", "second image"]
+  },
+  {
+    "item_id": "002",
+    "name": "Black T-Shirt",
+    "category": "tops",
+    "color": "black",
+    "size": "L",
+    "location": "mom's closet",
+    "img": ["binary data"]
+  },
+  {
+    "item_id": "003",
+    "name": "White Sneakers",
+    "category": "shoes",
+    "color": "white",
+    "size": "36",
+    "location": "shoe rack",
+    "img": ["binary data"]
+  },
+  {
+    "item_id": "004",
+    "name": "Grey Hoodie",
+    "category": "hoodies",
+    "color": "grey",
+    "size": "M",
+    "location": "closet hanger",
+    "img": ["binary data"]
+  },
+  {
+    "item_id": "005",
+    "name": "Red Scarf",
+    "category": "accessories",
+    "color": "red",
+    "size": "one size",
+    "location": "mom's closet",
+    "img": ["binary data"]
+  }
+]
