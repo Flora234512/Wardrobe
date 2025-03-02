@@ -32,6 +32,14 @@
                             Übersicht
                         </q-item-section>
                     </q-item>
+                    <q-item v-ripple to="/create">
+                        <q-item-section avatar>
+                            <q-icon name="add" />
+                        </q-item-section>
+                        <q-item-section>
+                            Erstellen
+                        </q-item-section>
+                    </q-item>
                     <q-separator />
                     <q-item v-ripple to="/impressum">
                         <q-item-section avatar>
